@@ -1,4 +1,3 @@
-<div><img src="https://readme-typing-svg.herokuapp.com?color=%03F19A7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;"><br></div>
 <stronger>-- -.-- / -. .- -- . / .. ... / . -- .. - / .--. --- --- .-.. .-.-.- / -.-. --- -. --. .-. .- - ..- .-.. .- - .. --- -. ... / --- -. / - --- / -.-. --- -- .. -. --. / - .-. .- -. ... .-.. .- - .</stronger>
 <div align="center">
   <a href="https://github.com/emitpool">
