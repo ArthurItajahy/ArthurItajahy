@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/emitpool">
-      <div><img src='https://github.com/emitpool/emitpool/blob/main/EmitAnimOriginal.gif' target="_blank"><br> </div>
+      <div><img src='https://github.com/emitpool/emitpool/blob/main/2tsm.gif' target="_blank"><br> </div>
    <h3>-- -.-- / -. .- -- . / .. ... / . -- .. - / .--. --- --- .-.. .-.-.- / -.-. --- -. --. .-. .- - ..- .-.. .- - .. --- -. ... / --- -. / - --- / -.-. --- -- .. -. --. / - .-. .- -. ... .-.. .- - .</h3>
      <tr><img height="265em" src="https://activity-graph.herokuapp.com/graph?username=emitpool&theme=react-dark&bg_color=00000f&hide_border=true"/></tr>
     <h3>Github Stats :octocat:</h3>
