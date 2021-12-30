@@ -31,6 +31,6 @@
 ## Contact me: 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/emit/"><img src="https://img.shields.io/badge/-emit-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:emitloopoffice@gmail.com"><img src="https://img.shields.io/badge/-emitloopoffice@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emit/"><img src="https://img.shields.io/badge/-EmitPool-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:emitloopoffice@gmail.com"><img src="https://img.shields.io/badge/-Gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
