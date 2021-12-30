@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h2>My name is Emit Pool, Im late! Im late!</h2>
-    <h3>No time to say "Hello, Goodbye".</h3>
+  <h2>🕐My name is Emit Pool, Im late! Im late! 🕒</h2>
+    <h3> 🕖 No time to say "Hello, Goodbye". 🕛 </h3>
     
   <a href="https://github.com/emitpool">
       <img src='https://github.com/emitpool/emitpool/blob/main/ImLate.gif' target="_blank"><br>
