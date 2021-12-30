@@ -18,14 +18,14 @@
 </center>
 </div>
  
-## Skills:
+## My Skills:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 <br>
-## Contact: 
+## Contact me: 
 <p align="center">
   
   <a href="https://www.linkedin.com/in/emit/"><img src="https://img.shields.io/badge/-emit-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
