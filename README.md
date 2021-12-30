@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/emitpool">
-      <div><img src='https://github.com/emitpool/emitpool/blob/main/GhostEmit.png' target="_blank"><br> </div>
+      <div><img src='https://github.com/emitpool/emitpool/blob/main/pixel-jeff-matrix-s.gif' target="_blank"><br> </div>
    <h1>-- -.-- / -. .- -- . / .. ... / . -- .. - / .--. --- --- .-.. .-.-.- / -.-. --- -. --. .-. .- - ..- .-.. .- - .. --- -. ... / --- -. / - --- / -.-. --- -- .. -. --. / - .-. .- -. ... .-.. .- - .</h1>
 
 
