@@ -4,7 +4,7 @@
     <h3> 🕖 No time to say "Hello, Goodbye". 🕛 </h3>
     
   <a href="https://github.com/emitpool">
-      <img src='https://github.com/emitpool/emitpool/blob/main/ImLate.gif' target="_blank"><br>
+      <img src='https://github.com/emitpool/emitpool/blob/main/EmitTime.gif' target="_blank"><br>
      <br/>
      <tr><img height="265em" src="https://activity-graph.herokuapp.com/graph?username=emitpool&theme=react-dark&bg_color=00000f&hide_border=true" /></tr>
    
