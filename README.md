@@ -16,10 +16,11 @@
     
 </tr>
 
+ <h3>"If you can't tolerate critics, don't do anything new or interesting. Work hard, have fun and make history." - Jeff Bezos</h3>
 </table>
 </center>
 </div>
- 
+
 ## My Skills:
 [![Java](https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
