@@ -16,7 +16,7 @@
     
 </tr>
 
- <h3>"If you can't tolerate critics, don't do anything new or interesting. Work hard, have fun and make history." - Jeff Bezos</h3>
+ <h3>I don't want to be late to make history.</h3>
 </table>
 </center>
 </div>
