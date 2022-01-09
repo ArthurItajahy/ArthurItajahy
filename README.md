@@ -41,6 +41,6 @@
 </p>
   
   
-## Music :
+## My Spotify :
   
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31yisv4ww2ovscsunzgewmg5aqae)
