@@ -49,7 +49,7 @@
   
 <p align="center"> 
 
- ## Total de visitas no meu perfil :detective: <br>
+ ## TOTAL DE VIEWS NO MEU PERFIL: 👀 <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/EmitPool/count.svg" />
  </p>
