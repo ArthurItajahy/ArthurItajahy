@@ -5,7 +5,7 @@
     
   <a href="https://github.com/emitpool">
       <img src='https://github.com/emitpool/emitpool/blob/main/TimeInfinity.gif' target="_blank"><br>
-    <h3>Eu não quero me atrasar pra fazer historia.</h3>
+    <h3>Eu não quero me atrasar para fazer historia.</h3>
      <br/>
     
 ## Github Stats :octocat:
