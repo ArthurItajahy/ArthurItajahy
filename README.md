@@ -1,11 +1,12 @@
+# Ola.Meu nome é Emit Pool!
 
+## Quem eu sou?
+
+Sou uma pessoa que foca sempre em crescer em conhecimento, pra min ser pontual e saber organizar o meu tempo é crucial. Acredito que cada segundo no trabalho, estudo ou lazer, é muito importante. Por isso sempre foco em usar meu tempo da melhor maneira possivel.
 <div align="center">
-  <h2>🕐Meu nome é Emit Pool e estou Atrasado!! 🕒</h2>
-    <h3> 🕖 Sem tempo pra dizer"Oi ou Adeus.". 🕛 </h3>
     
   <a href="https://github.com/emitpool">
-      <img src='https://github.com/emitpool/emitpool/blob/main/TimeInfinity.gif' target="_blank"><br>
-    <h3>Eu não quero me atrasar para fazer historia.</h3>
+      <img src='https://github.com/emitpool/emitpool/blob/main/assets/TimeInfinity.gif' target="_blank">
      <br/>
     
 ## Github Stats :octocat:
@@ -30,7 +31,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MySql](https://img.shields.io/badge/MySql-3776AB?style=for-the-badge&logo=MySql&logoColor=white&labelColor=101010)]()
 <br>
 ## Contato: 
