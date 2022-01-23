@@ -49,7 +49,7 @@
   
 <p align="center"> 
 
- ## TOTAL DE VIEWS NO MEU PERFIL: 👀 <br>
+ ##  👁 👁 TOTAL DE PERSSOA QUE VIZUALIZARAM ESTE PERFIL:  <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/EmitPool/count.svg" />
  </p>
