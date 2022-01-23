@@ -46,12 +46,13 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31yisv4ww2ovscsunzgewmg5aqae)
   
 
-  
 <p align="center"> 
-
- ##  👁 👁 Total de pessoas que visitaram esse perfil:  <br>
+  
+ ##  👁‍🗨 Total de pessoas que visitaram esse perfil:
  <p align="center"> 
+   
    <img alingn="center" src="https://profile-counter.glitch.me/EmitPool/count.svg" />
+   
  </p>
 
-</p>  
+</p> 
