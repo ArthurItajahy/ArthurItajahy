@@ -1,11 +1,11 @@
 
 <div align="center">
-  <h2>🕐My name is Emit Pool, Im late! Im late! 🕒</h2>
-    <h3> 🕖 No time to say "Hello, Goodbye". 🕛 </h3>
+  <h2>🕐Meu nome é Emit Pool e estou Atrasado!! 🕒</h2>
+    <h3> 🕖 Sem tempo pra dizer"Oi ou Adeus.". 🕛 </h3>
     
   <a href="https://github.com/emitpool">
       <img src='https://github.com/emitpool/emitpool/blob/main/TimeInfinity.gif' target="_blank"><br>
-    <h3>I don't want to be late to make history.</h3>
+    <h3>Eu não quero me atrasar pra fazer historia.</h3>
      <br/>
     
 ## Github Stats :octocat:
@@ -24,7 +24,7 @@
 </div>
 
    
-## My Skills:
+## Minhas Hablidades:
   
 [![Java](https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -33,7 +33,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MySql](https://img.shields.io/badge/MySql-3776AB?style=for-the-badge&logo=MySql&logoColor=white&labelColor=101010)]()
 <br>
-## Contact me: 
+## Contato: 
 <p align="center">
   <a href="https://twitter.com/EmitPool"><img src="https://img.shields.io/badge/-EmitPool-blue?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/emit/"><img src="https://img.shields.io/badge/-EmitPool-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
@@ -41,6 +41,6 @@
 </p>
   
   
-## My Spotify :
+## Meu Spotify :
   
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31yisv4ww2ovscsunzgewmg5aqae)
