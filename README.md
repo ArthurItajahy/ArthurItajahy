@@ -49,7 +49,7 @@
   
 <p align="center"> 
 
- ##  👁 👁 TOTAL DE PERSSOA QUE VIZUALIZARAM ESTE PERFIL:  <br>
+ ##  👁 👁 Total de pessoas que visitaram esse perfil:  <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/EmitPool/count.svg" />
  </p>
