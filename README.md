@@ -51,7 +51,7 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, pra min ser pontual e
  ##  👁‍🗨 Total de pessoas que visitaram esse perfil:
  <p align="center"> 
    
-   <img alingn="center" src="https://profile-counter.glitch.me/Emmettlathrop/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/EmmettBrowwn/count.svg" />
    
  </p>
 
