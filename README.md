@@ -35,9 +35,9 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, pra min ser pontual e
 <br>
 ## Contato: 
 <p align="center">
-  <a href="https://twitter.com/EmitPool"><img src="https://img.shields.io/badge/-EmitPool-blue?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/TheEmmettBrow"><img src="https://img.shields.io/badge/-EmmettBrown-blue?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/emit/"><img src="https://img.shields.io/badge/-EmmmettBrown-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:emitloopoffice@gmail.com"><img src="https://img.shields.io/badge/-emitloopoffice@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:emmettbrown.contact@gmail.com"><img src="https://img.shields.io/badge/-emmettbrown.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
   
   
