@@ -1,4 +1,4 @@
-# Ola!Meu nome é Emit Pool!
+# Ola!Meu nome é Emmett Brown!
 
 ## Quem eu sou?
 
@@ -6,15 +6,15 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, pra min ser pontual e
 <div align="center">
     
   <a href="https://github.com/emitpool">
-      <img src='https://github.com/emitpool/emitpool/blob/main/assets/TimeInfinity.gif' target="_blank">
+      <img src='https://github.com/emmettlathrop/emmettlathrop/blob/main/assets/TimeInfinity.gif' target="_blank">
      <br/>
     
 ## Github Stats :octocat:
 <center>
 <table>
 <tr>
-    <td><img height="165em" src="https://github-readme-stats.vercel.app/api?username=emitpool&show_icons=true&theme=white&include_all_commits=true&count_private=true" /></td>
-    <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emitpool&layout=compact&langs_count=7&theme=white" /></td>
+    <td><img height="165em" src="https://github-readme-stats.vercel.app/api?username=emmettlathrop&show_icons=true&theme=white&include_all_commits=true&count_private=true" /></td>
+    <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmettlathrop&layout=compact&langs_count=7&theme=white" /></td>
     
   
 </tr>
@@ -36,7 +36,7 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, pra min ser pontual e
 ## Contato: 
 <p align="center">
   <a href="https://twitter.com/EmitPool"><img src="https://img.shields.io/badge/-EmitPool-blue?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/emit/"><img src="https://img.shields.io/badge/-EmitPool-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emit/"><img src="https://img.shields.io/badge/-EmmmettBrown-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:emitloopoffice@gmail.com"><img src="https://img.shields.io/badge/-emitloopoffice@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
   
@@ -51,7 +51,7 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, pra min ser pontual e
  ##  👁‍🗨 Total de pessoas que visitaram esse perfil:
  <p align="center"> 
    
-   <img alingn="center" src="https://profile-counter.glitch.me/EmitPool/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/Emmettlathrop/count.svg" />
    
  </p>
 
