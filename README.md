@@ -2,7 +2,7 @@
 
 ## Quem eu sou?
 
-Sou uma pessoa que foca sempre em crescer em conhecimento, pra mim ser pontual e saber organizar o meu tempo é crucial. Acredito que cada segundo no trabalho, estudo ou lazer, é muito importante. Por isso sempre foco em usar meu tempo da melhor maneira possível.
+Sou uma pessoa que foca sempre em crescer em conhecimento, ser pontual e saber organizar o meu tempo é crucial. Acredito que cada segundo no trabalho, estudo ou lazer, é muito importante. Por isso sempre foco em usar meu tempo da melhor maneira possível.
 <div align="center">
     
   <a href="https://github.com/emitpool">
