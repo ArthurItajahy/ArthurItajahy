@@ -15,8 +15,6 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, ser pontual e saber o
 <tr>
     <td><img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthuritajahy&show_icons=true&theme=white&include_all_commits=true&count_private=true" /></td>
     <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuritajahy&layout=compact&langs_count=7&theme=white" /></td>
-    
-  
 </tr>
 
 
@@ -24,15 +22,27 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, ser pontual e saber o
 </center>
 </div>
 
-   
+
+    
+    
 ## Minhas Hablidades:
+
+
+<table>
+    <tr>
+        <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
+        <td><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/></td>
+        <td><img alt="Python" src="https://img.shields.io/badge/python-%23777BB4.svg?&style=for-the-badge&logo=python&logoColor=white"/></td>
+        <td><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></td>
+        <td><img alt="MySQL" src="https://img.shields.io/badge/mysql-%23326ce5.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></td>
+         <td><img alt="MongoDB" src="https://img.shields.io/badge/mongoDB-%23326ce5.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+    </tr>
+</table>
   
-[![Java](https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
-[![MySql](https://img.shields.io/badge/MySql-3776AB?style=for-the-badge&logo=MySql&logoColor=white&labelColor=101010)]()
 <br>
+    
+    
+    
 ## Contato: 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthuritajahy"><img src="https://img.shields.io/badge/-Arthur Itajahy-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
