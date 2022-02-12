@@ -47,10 +47,18 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, ser pontual e saber o
     
     
 ## Contato: 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arthuritajahy"><img src="https://img.shields.io/badge/-Arthur Itajahy-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:arthuritajahy.contact@gmail.com"><img src="https://img.shields.io/badge/-arthuritajahy.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-</p>
+    
+<br>
+   
+<table>
+    <tr>
+        <td><img alt="Email" src="https://img.shields.io/badge/-arthuritajahy.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></td>
+        <td><img alt="Linkedin" src="https://img.shields.io/badge/-Arthur Itajahy-blue?style=flat&logo=Linkedin&logoColor=white"/></td>
+    </tr>
+</table>
+    
+    
+
   
   
 ## Meu Spotify :
