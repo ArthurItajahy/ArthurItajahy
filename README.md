@@ -1,3 +1,7 @@
+<img align="right" src='https://github.com/ArthurItajahy/ArthurItajahy/blob/main/assets/TimeInfinity.gif' target="_blank">
+
+
+
 # Ola!Meu nome é Arthur Itajahy!
 
 ## Quem eu sou?
@@ -5,9 +9,10 @@
 Sou uma pessoa que foca sempre em crescer em conhecimento, ser pontual e saber organizar o meu tempo é crucial. Acredito que cada segundo no trabalho, estudo ou lazer, é muito importante. Por isso sempre foco em usar meu tempo da melhor maneira possível.
 <div align="center">
     
-  <a href="https://github.com/emitpool">
-      <img src='https://github.com/emmettlathrop/emmettlathrop/blob/main/assets/TimeInfinity.gif' target="_blank">
-     <br/>
+
+    
+<br>
+    
     
 ## Github Stats :octocat:
 <center>
@@ -52,8 +57,8 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, ser pontual e saber o
    
 <table>
     <tr>
-        <td><img alt="Email" src="https://img.shields.io/badge/-arthuritajahy.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></td>
-        <td><img alt="Linkedin" src="https://img.shields.io/badge/-Arthur Itajahy-blue?style=flat&logo=Linkedin&logoColor=white"/></td>
+        <td><img height="30em" alt="Email" src="https://img.shields.io/badge/-arthuritajahy.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></td>
+        <td><img height="30em" alt="Linkedin" src="https://img.shields.io/badge/-Arthur Itajahy-blue?style=flat&logo=Linkedin&logoColor=white"/></td>
     </tr>
 </table>
     
