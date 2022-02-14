@@ -1,4 +1,5 @@
-<img align="right" height="360rem" src='https://github.com/ArthurItajahy/ArthurItajahy/blob/main/assets/Temporal.gif' target="_blank">
+
+<img align="right" width="300rem" src='https://github.com/ArthurItajahy/ArthurItajahy/blob/main/assets/Temporal.gif' target="_blank">
 
 
 
@@ -7,7 +8,7 @@
 ## Quem eu sou?
 
 Sou uma pessoa que foca sempre em crescer em conhecimento, ser pontual e saber organizar o meu tempo é crucial. Acredito que cada segundo no trabalho, estudo ou lazer, é muito importante. Por isso sempre foco em usar meu tempo da melhor maneira possível.
-<div align="center">
+<div align="left">
     
 
     
@@ -55,7 +56,7 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, ser pontual e saber o
     
 <br>
    
-<table>
+<table align="center">
     <tr>
         <td><img height="30em" alt="Email" src="https://img.shields.io/badge/-arthuritajahy.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></td>
         <td><img height="30em" alt="Linkedin" src="https://img.shields.io/badge/-Arthur Itajahy-blue?style=flat&logo=Linkedin&logoColor=white"/></td>
@@ -75,9 +76,6 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, ser pontual e saber o
   
  ##  👁‍🗨 Total de pessoas que visitaram esse perfil:
  <p align="center"> 
-   
    <img alingn="center" src="https://profile-counter.glitch.me/EmmettBrowwn/count.svg" />
-   
  </p>
-
 </p> 
