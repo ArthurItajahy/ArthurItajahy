@@ -19,8 +19,8 @@ Sou uma pessoa que foca sempre em crescer em conhecimento, ser pontual e saber o
 <center>
 <table>
 <tr>
-    <td><img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthuritajahy&show_icons=true&theme=white&include_all_commits=true&count_private=true" /></td>
-    <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuritajahy&layout=compact&langs_count=7&theme=white" /></td>
+    <td><img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthuritajahy&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" /></td>
+    <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuritajahy&layout=compact&langs_count=7&theme=highcontrast" /></td>
 </tr>
 
 
