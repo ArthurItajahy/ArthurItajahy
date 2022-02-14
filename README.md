@@ -1,5 +1,5 @@
 
-<img align="right" width="300rem" src='https://github.com/ArthurItajahy/ArthurItajahy/blob/main/assets/Temporal.gif' target="_blank">
+<img align="right" width="400rem" src='https://github.com/ArthurItajahy/ArthurItajahy/blob/main/assets/temp.gif' target="_blank">
 
 
 
