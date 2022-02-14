@@ -1,4 +1,4 @@
-<img align="right" src='https://github.com/ArthurItajahy/ArthurItajahy/blob/main/assets/TimeInfinity.gif' target="_blank">
+<img align="right" src='https://github.com/ArthurItajahy/ArthurItajahy/blob/main/assets/Temporal.gif' target="_blank">
 
 
 
