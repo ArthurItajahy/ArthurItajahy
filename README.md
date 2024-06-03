@@ -1,3 +1,3 @@
 
-## I'm Full Stack Java dev.
+## I'm Java dev.
 
