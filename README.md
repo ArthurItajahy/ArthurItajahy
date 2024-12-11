@@ -11,7 +11,7 @@ At the heart of rocket science is the Tsiolkovsky Rocket Equation, which elegant
 This equation is a cornerstone of spaceflight, guiding mission planning and spacecraft design.
 
 ---
-![Ship)](https://github.com/user-attachments/assets/ship.png)
+![Ship)](./assets/ship.png)
 
 ## About Me
 
