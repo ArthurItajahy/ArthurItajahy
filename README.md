@@ -1,4 +1,4 @@
-## 🧑🏼‍🚀 You're on my Space.
+## 🧑🏼‍🚀 You're on my space.
 
 Welcome to my GitHub profile! I am passionate about rockets, the universe, and everything in between. As a fan of space exploration and Kerbal Space Program (KSP), I love diving into the science and engineering that make interstellar travel possible.
 
