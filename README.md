@@ -20,3 +20,8 @@ This equation is a cornerstone of spaceflight, guiding mission planning and spac
 - **Goals:** To contribute to projects that push the boundaries of space exploration and education.
 
 Feel free to explore my repositories and join me in my journey through the cosmos!
+
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Merlin_Boosterss?theme=dark&font=Kadwa">
+</p>
