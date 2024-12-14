@@ -17,6 +17,19 @@ Welcome to my GitHub profile! I am passionate about rockets, the universe, and e
 - **Hobbies:** Exploring KSP with mods like Realism Overhaul and designing realistic spacecraft.
 - **Goals:** To contribute to projects that push the boundaries of space exploration and education.
 
+
+---
+
+## 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
 Feel free to explore my repositories and join me in my journey through the cosmos!
 
 
