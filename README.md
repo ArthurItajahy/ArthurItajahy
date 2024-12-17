@@ -5,6 +5,9 @@ Welcome to my GitHub profile! I am passionate about rockets, the universe, and e
 
 ---
 
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthuritajahy&show_icons=true&theme=dark"/></a>
+<a><img align="center" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuritajahy&layout=compact&langs_count=8&theme=dark&count_private=false"/></a>
+
 
 <p align="center">
    <img src="https://leetcard.jacoblin.cool/Merlin_Boosterss?theme=dark&font=Kadwa">
