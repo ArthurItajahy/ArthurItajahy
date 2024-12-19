@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
 <table style="width: 100%; border: 1px solid #ddd; border-collapse: collapse;">
     <tr>
     <td style="padding: 10px; text-align: center;">
-      <a href="" target="_blank">
+      <a href=https://github.com/ArthurItajahy/W-Grad-Develop" target="_blank">
         <img width="50" height="55" src="assets/wlogo.gif" alt="W-Grad Logo" />
       </a>
     </td>
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
   </tr>
   <tr>
     <td style="padding: 10px; text-align: center;">
-      <a href="https://your-project-link.com" target="_blank">
+      <a href="https://github.com/ArthurItajahy/quark-dev" target="_blank">
         <img width="50" height="50" src="assets/quarklogo.gif" alt="Quark Logo" />
       </a>
     </td>
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
 <table style="width: 100%; border: 1px solid #ddd; border-collapse: collapse;">
     <tr>
     <td style="padding: 10px; text-align: center;">
-      <a href="https://your-project-link.com" target="_blank">
+      <a href="https://github.com/ArthurItajahy/KSP-SCRIPTS" target="_blank">
         <img width="50" height="55" src="assets/ship.png" alt="KSP Logo" />
       </a>
     </td>
@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
       </p>
     </td>
       <td style="padding: 10px; text-align: center;">
-      <a href="https://lord-project-v2.vercel.app" target="_blank">
+      <a href="https://github.com/ArthurItajahy/KSP-SCRIPTS" target="_blank">
         <img width="50" height="50" src="assets/github.jpg" alt="Github Logo" />
       </a>
     </td>
@@ -87,7 +87,7 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
   </tr>
    <tr>
     <td style="padding: 10px; text-align: center;">
-      <a href="https://your-project-link.com" target="_blank">
+      <a href="https://github.com/ArthurItajahy/UNIVERSIDADE" target="_blank">
         <img width="50" height="55" src="assets/java.png" alt="KSP Logo" />
       </a>
     </td>
@@ -97,14 +97,14 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
       </p>
     </td>
       <td style="padding: 10px; text-align: center;">
-      <a href="" target="_blank">
+      <a href="https://github.com/ArthurItajahy/UNIVERSIDADE" target="_blank">
         <img width="50" height="50" src="assets/github.jpg" alt="Github Logo" />
       </a>
     </td>
   </tr>
   <tr>
     <td style="padding: 10px; text-align: center;">
-      <a href="https://github.com/ArthurItajahy/UNIVERSIDADE" target="_blank">
+      <a href="" target="_blank">
         <img width="50" height="55" src="assets/python.png" alt="KSP Logo" />
       </a>
     </td>
