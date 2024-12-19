@@ -5,8 +5,30 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
 
 ---
 
-## Here Are Some Projects 🏗
+# Here Are Some Projects:
+
+
+
+
+## Languages Created:
 <table style="width: 100%; border: 1px solid #ddd; border-collapse: collapse;">
+    <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="" target="_blank">
+        <img width="50" height="55" src="assets/wlogo.gif" alt="W-Grad Logo" />
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: left;">
+      <a href="" target="_blank" style="text-decoration: none; color: inherit;">
+        <strong>W° - A Robust Oriented Object Programming language - [IN DEVELOPMENT]</strong>
+      </a>
+    </td>
+      <td style="padding: 10px; text-align: center;">
+      <a href="https://lord-project-v2.vercel.app" target="_blank">
+        <img width="50" height="50" src="assets/github.jpg" alt="LOTR Logo" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td style="padding: 10px; text-align: center;">
       <a href="https://your-project-link.com" target="_blank">
@@ -15,19 +37,89 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
     </td>
     <td style="padding: 10px; text-align: left;">
       <a href="https://your-project-link.com" target="_blank" style="text-decoration: none; color: inherit;">
-        <strong>Quark - A simple Oriented Object Programming language[IN DEVELOPMENT]</strong>
+        <strong>Quark - A simple Oriented Object Programming language - [IN DEVELOPMENT]</strong>
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <a href="" target="_blank">
+        <img width="50" height="50" src="assets/github.jpg" alt="LOTR Logo" />
       </a>
     </td>
   </tr>
 </table>
 
+## Simple Projects:
 
-## About Me
-
-- **Interests:** Orbital mechanics, delta-v optimization, and trajectory plotting.
-- **Hobbies:** Exploring KSP with mods like Realism Overhaul and designing realistic spacecraft.
-- **Goals:** To contribute to projects that push the boundaries of space exploration and education.
-
+<table style="width: 100%; border: 1px solid #ddd; border-collapse: collapse;">
+    <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="https://your-project-link.com" target="_blank">
+        <img width="50" height="55" src="assets/ship.png" alt="KSP Logo" />
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: left;">
+      <a href="https://your-project-link.com" target="_blank" style="text-decoration: none; color: inherit;">
+        <strong> KSP SCRIPTS - [IN DEVELOPMENT] </strong>
+      </a>
+    </td>
+      <td style="padding: 10px; text-align: center;">
+      <a href="https://lord-project-v2.vercel.app" target="_blank">
+        <img width="50" height="50" src="assets/github.jpg" alt="Github Logo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="https://lord-project-v2.vercel.app" target="_blank">
+        <img width="50" height="70" src="assets/tolkien.png" alt="LOTR Logo" />
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: left;">
+      <a href="https://lord-project-v2.vercel.app" target="_blank" style="text-decoration: none; color: inherit;">
+        <strong>LOTR MEMORIAL - A website made to show my gratitude to the great Professor Tolkien</strong>
+      </a>
+    </td>
+     <td style="padding: 10px; text-align: center;">
+      <a href="https://github.com/ArthurItajahy/Lord_Project_v2" target="_blank">
+        <img width="50" height="50" src="assets/github.jpg" alt="LOTR Logo" " />
+      </a>
+    </td>
+  </tr>
+   <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="https://your-project-link.com" target="_blank">
+        <img width="50" height="55" src="assets/java.png" alt="KSP Logo" />
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: left;">
+      <a href="https://your-project-link.com" target="_blank" style="text-decoration: none; color: inherit;">
+        <strong> Java University - It was made in group to consolidate the knowledge about OOP </strong>
+      </a>
+    </td>
+      <td style="padding: 10px; text-align: center;">
+      <a href="" target="_blank">
+        <img width="50" height="50" src="assets/github.jpg" alt="Github Logo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="https://github.com/ArthurItajahy/UNIVERSIDADE" target="_blank">
+        <img width="50" height="55" src="assets/python.png" alt="KSP Logo" />
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: left;">
+      <a href="" target="_blank" style="text-decoration: none; color: inherit;">
+        <strong> DOOR - It was made to test a ideia about choose a winning door and gain the prize on the movie 21 </strong>
+      </a>
+    </td>
+      <td style="padding: 10px; text-align: center;">
+      <a href="https://github.com/ArthurItajahy/Doors" target="_blank">
+        <img width="50" height="50" src="assets/github.jpg" alt="Github Logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
