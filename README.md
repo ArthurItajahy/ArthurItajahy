@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
       </a>
     </td>
     <td style="padding: 10px; text-align: left;">
-      <a href="" target="_blank" style="text-decoration: none; color: inherit;">
+      <p  style="text-decoration: none; color: black;">
         <strong>W° - A Robust Oriented Object Programming language - [IN DEVELOPMENT]</strong>
-      </a>
+      </p>
     </td>
       <td style="padding: 10px; text-align: center;">
       <a href="https://github.com/ArthurItajahy/W-Grad-Develop" target="_blank">
@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
       </a>
     </td>
     <td style="padding: 10px; text-align: left;">
-      <a href="https://your-project-link.com" target="_blank" style="text-decoration: none; color: inherit;">
+      <pstyle="text-decoration: none; color: black;">
         <strong>Quark - A simple Oriented Object Programming language - [IN DEVELOPMENT]</strong>
-      </a>
+      </p>
     </td>
     <td style="padding: 10px; text-align: center;">
       <a href="https://github.com/ArthurItajahy/quark-dev" target="_blank">
@@ -58,9 +58,9 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
       </a>
     </td>
     <td style="padding: 10px; text-align: left;">
-      <a href="https://your-project-link.com" target="_blank" style="text-decoration: none; color: inherit;">
+      <p style="text-decoration: none; color: black;">
         <strong> KSP SCRIPTS - [IN DEVELOPMENT] </strong>
-      </a>
+      </p>
     </td>
       <td style="padding: 10px; text-align: center;">
       <a href="https://lord-project-v2.vercel.app" target="_blank">
@@ -75,9 +75,9 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
       </a>
     </td>
     <td style="padding: 10px; text-align: left;">
-      <a href="https://lord-project-v2.vercel.app" target="_blank" style="text-decoration: none; color: inherit;">
+      <p  style="text-decoration: none; color: black;">
         <strong>LOTR MEMORIAL - A website made to show my gratitude to the great Professor Tolkien</strong>
-      </a>
+      </p>
     </td>
      <td style="padding: 10px; text-align: center;">
       <a href="https://github.com/ArthurItajahy/Lord_Project_v2" target="_blank">
@@ -91,10 +91,10 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
         <img width="50" height="55" src="assets/java.png" alt="KSP Logo" />
       </a>
     </td>
-    <td style="padding: 10px; text-align: left;">
-      <a href="https://your-project-link.com" target="_blank" style="text-decoration: none; color: inherit;">
+    <td style="padding: 10px; text-align: left; ">
+      <p  style="text-decoration: none; color: black;">
         <strong> Java University - It was made in group to consolidate the knowledge about OOP </strong>
-      </a>
+      </p>
     </td>
       <td style="padding: 10px; text-align: center;">
       <a href="" target="_blank">
@@ -109,9 +109,9 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
       </a>
     </td>
     <td style="padding: 10px; text-align: left;">
-      <a href="" target="_blank" style="text-decoration: none; color: inherit;">
+      <p style="text-decoration: none; color: black;">
         <strong> DOOR - It was made to test a ideia about choose a winning door and gain the prize on the movie 21 </strong>
-      </a>
+      </p>
     </td>
       <td style="padding: 10px; text-align: center;">
       <a href="https://github.com/ArthurItajahy/Doors" target="_blank">
