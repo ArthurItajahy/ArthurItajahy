@@ -6,10 +6,20 @@ Welcome to my GitHub profile! I am passionate about rockets, the universe, and e
 ---
 
 ## Here Are Some Projects 🏗
-
-<img src=""></img>
-  [**quark-language**](https://github.com/arthuritajahy/quark-dev)
-  * Its a simple programming language OOP
+<table style="width: 100%; border: 1px solid #ddd; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="https://your-project-link.com" target="_blank">
+        <img width="50" height="50" src="assets/quarklogo.gif" alt="Quark Logo" />
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: left;">
+      <a href="https://your-project-link.com" target="_blank" style="text-decoration: none; color: inherit;">
+        <strong>Quark - A simple Oriented Object Programming language[IN DEVELOPMENT]</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## About Me
