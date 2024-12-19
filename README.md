@@ -117,17 +117,17 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
   </tr>
   <tr>
     <td style="padding: 10px; text-align: center;">
-      <a href="https://github.com/ArthurItajahy/Doors" target="_blank">
+      <a href="https://github.com/ArthurItajahy/botlinkedin" target="_blank">
         <img width="50" height="55" src="assets/python.png" alt="KSP Logo" />
       </a>
     </td>
     <td style="padding: 10px; text-align: left;">
       <p style="text-decoration: none; color: black;">
-        <strong> DOOR - It was made to test a ideia about choose a winning door and gain the prize on the movie 21 </strong>
+        <strong> BotLinkedin - Make request for friendship on linkedin and send them a message</strong>
       </p>
     </td>
       <td style="padding: 10px; text-align: center;">
-      <a href="https://github.com/ArthurItajahy/Doors" target="_blank">
+      <a href="https://github.com/ArthurItajahy/botlinkedin" target="_blank">
         <img width="50" height="50" src="assets/github.jpg" alt="Github Logo" />
       </a>
     </td>
