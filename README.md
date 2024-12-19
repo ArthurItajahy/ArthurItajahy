@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
     </td>
     <td style="padding: 10px; text-align: left;">
       <p style="text-decoration: none; color: black;">
-        <strong>GÊNIO INDOMÁVEL - A Full stack project that I made for a conclusion of a bootcamp.</strong>
+        <strong>GÊNIO INDOMÁVEL - A Full stack project that I made for a conclusion of a bootcamp. [No longer in production]</strong>
       </p>
     </td>
       <td style="padding: 10px; text-align: center;">
