@@ -104,7 +104,7 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
   </tr>
   <tr>
     <td style="padding: 10px; text-align: center;">
-      <a href="" target="_blank">
+      <a href="https://github.com/ArthurItajahy/Doors" target="_blank">
         <img width="50" height="55" src="assets/python.png" alt="KSP Logo" />
       </a>
     </td>
