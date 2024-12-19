@@ -66,6 +66,23 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
 <table style="width: 100%; border: 1px solid #ddd; border-collapse: collapse;">
     <tr>
     <td style="padding: 10px; text-align: center;">
+      <a href="https://github.com/ArthurItajahy/Blog_pessoal_FrontEnd/tree/main" target="_blank">
+        <img width="50" height="55" src="assets/shelly.png" alt="KSP Logo" />
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: left;">
+      <p style="text-decoration: none; color: black;">
+        <strong>GÊNIO INDOMÁVEL - A Full stack project that I made for a conclusion of a bootcamp.</strong>
+      </p>
+    </td>
+      <td style="padding: 10px; text-align: center;">
+      <a href="https://github.com/ArthurItajahy/Blog_pessoal_FrontEnd/tree/main" target="_blank">
+        <img width="50" height="50" src="assets/github.jpg" alt="Github Logo" />
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td style="padding: 10px; text-align: center;">
       <a href="https://github.com/ArthurItajahy/KSP-SCRIPTS" target="_blank">
         <img width="50" height="55" src="assets/ship.png" alt="KSP Logo" />
       </a>
