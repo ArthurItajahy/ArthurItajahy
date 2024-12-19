@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
       </a>
     </td>
       <td style="padding: 10px; text-align: center;">
-      <a href="https://lord-project-v2.vercel.app" target="_blank">
+      <a href="https://github.com/ArthurItajahy/W-Grad-Develop" target="_blank">
         <img width="50" height="50" src="assets/github.jpg" alt="LOTR Logo" />
       </a>
     </td>
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
       </a>
     </td>
     <td style="padding: 10px; text-align: center;">
-      <a href="" target="_blank">
+      <a href="https://github.com/ArthurItajahy/quark-dev" target="_blank">
         <img width="50" height="50" src="assets/github.jpg" alt="LOTR Logo" />
       </a>
     </td>
