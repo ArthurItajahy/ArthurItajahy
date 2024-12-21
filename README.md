@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
 
 
 ---
-![LEETCODE](https://leetcard.jacoblin.cool/Merlin_Boosterss?theme=dark&font=Cardo&ext=heatmap).
+[![LEETCODE](https://leetcard.jacoblin.cool/Merlin_Boosterss?theme=dark&font=Cardo&ext=heatmap)](https://leetcode.com/Merlin_Boosterss/)
 
 ## Here Are Some Projects:
 
