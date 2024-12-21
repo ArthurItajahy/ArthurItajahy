@@ -14,9 +14,13 @@ Welcome to my GitHub profile! I'm Arthur Itajahy, a tech enthusiast and leader w
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
-
-
-
+<table style="width: 100%; border: 1px solid #ddd; border-collapse: collapse;">
+      <td style="padding: 5px; text-align: center;">
+      <a href="" target="_blank">
+        <img width="600" height="355" src="https://leetcard.jacoblin.cool/Merlin_Boosterss?theme=dark&font=Cardo&ext=heatmap" alt="Leet_Code" />
+      </a>
+    </td>
+</table>
 
 ## Here Are Some Projects:
 
